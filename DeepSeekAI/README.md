@@ -1,4 +1,5 @@
-!\[DeepSeekAI Leak](DeepSeekAI.png)
+
+<img width="1059" height="1035" alt="DeepSeekAI" src="https://github.com/user-attachments/assets/a8e8606a-9d81-4dca-9cae-73db033db98d" />
 
 
 
