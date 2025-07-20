@@ -20,7 +20,7 @@ https://chatgpt.com/share/687d2e2c-2018-800f-bed7-5177a17847b0
 
 I guess this prompt appeared as a result of an error while creating a random image in the ChatGPT mobile application.
 
-<img width="1440" height="2821" alt="ChatGPT" src="https://github.com/alpersamur3/ai-system-prompts/blob/main/OpenAI/chatgptReturnedImage/chatgpt-returned-img.jpg"/>
+<img width="1440" height="2821" alt="ChatGPT" src="https://github.com/alpersamur3/ai-system-prompts/blob/main/OpenAI/chatgpt-returned-img.jpg"/>
 
 
 
