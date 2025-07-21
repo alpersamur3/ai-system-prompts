@@ -2,7 +2,7 @@
 
 
 
-https://grok.com/share/bGVnYWN5\_00a2568b-2700-4615-87d1-0db0b872d683
+https://grok.com/share/bGVnYWN5_00a2568b-2700-4615-87d1-0db0b872d683
 
 
 
@@ -14,5 +14,5 @@ Thank for \[KDWOP](https://github.com/KDWOP) for providing the Grok-4 system pro
 
 
 
-https://grok.com/share/c2hhcmQtMw%3D%3D\_4354c14c-6be3-4530-b519-46880eb7bf86
+https://grok.com/share/c2hhcmQtMw%3D%3D_4354c14c-6be3-4530-b519-46880eb7bf86
 
