@@ -8,6 +8,9 @@ Unlike other similar repositories, pull requests submitted here are carefully re
 
 ## 🤖 Included AI Models
 
+### 🟦 Cursor
+- Claude Sonnet 4 (via Cursor)
+
 ### 🔵 DeepSeekAI
 - DeepSeek Model
 
@@ -17,7 +20,7 @@ Unlike other similar repositories, pull requests submitted here are carefully re
 ### 🟣 Meta AI
 - LLaMA 4
   - LLaMA 4 WhatsApp Integration
-  - LLaMA 4 Image Creation
+  - LLaMA 4 Image Creation (via WhatsApp)
 
 ### 🟢 Microsoft
 - GitHub Copilot (GPT-4.1)
@@ -32,6 +35,9 @@ Unlike other similar repositories, pull requests submitted here are carefully re
 - ChatGPT-4.1
 - ChatGPT-4.1 Mini
 - Returned Image Prompt Handling
+
+### 🟤 Qwen
+- Qwen 3 Coder
 
 ### ⚫ xAI (Elon Musk)
 - Grok-3
