@@ -1,3 +1,13 @@
+# General
+
+This README.md and cursor-claude-sonnet-4.md file added by Cursor AI without this topic. Cursor AI doesn't allow the share chats via link.
+Here is the chat images:
+
+<img width="1620" height="1020" alt="Cursor" src="https://github.com/user-attachments/assets/d2441a2c-5349-4b53-8033-ad0832d27e9e" />
+
+<img width="1619" height="1014" alt="Cursor" src="https://github.com/user-attachments/assets/c6aad315-a150-497f-bf33-c3be266d0bb5" />
+
+
 # Cursor AI Models
 
 This directory contains leaked system prompts from AI models integrated into the Cursor IDE.
