@@ -2,10 +2,6 @@
 
 Unlike other system prompts, Web Copilot and Windows Copilot are written in the first person. I confirmed through several sources and Copilot itself that the system prompt is directly provided to Copilot in the first person.
 
-# Github Copilot GPT-4.1
-
-https://github.com/copilot/share/8a0711be-0aa4-8414-b012-200da44e28df
-
 # Web Copilot
 
 https://copilot.microsoft.com/shares/FxA3cWML1pE5h7e1zzskj

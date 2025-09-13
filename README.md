@@ -32,13 +32,15 @@ Unlike other similar repositories, pull requests submitted here are carefully re
 ### 🔴 Google AI
 - Gemini 2.5 Flash
 
+### 🐙 GitHub Copilot
+- GitHub Copilot (GPT-4.1)
+
 ### 🟣 Meta AI
 - LLaMA 4
   - LLaMA 4 WhatsApp Integration
   - LLaMA 4 Image Creation (via WhatsApp)
 
 ### 🟢 Microsoft
-- GitHub Copilot (GPT-4.1)
 - Windows Copilot
 - Web Copilot
 
@@ -79,9 +81,10 @@ ai-system-prompts/
 ├── Anthropic/               # Claude models (3.5 Sonnet, Opus, etc.)
 ├── Cursor/                  # Cursor IDE AI integrations
 ├── DeepSeekAI/             # DeepSeek models
+├── GitHubCopilot/          # GitHub Copilot (GPT-4.1)
 ├── GoogleAI/               # Gemini models
 ├── MetaAI/                 # LLaMA models
-├── Microsoft/              # GitHub Copilot, Windows Copilot
+├── Microsoft/              # Windows Copilot, Web Copilot
 ├── MistralAI/              # Mistral models
 ├── OpenAI/                 # ChatGPT models
 ├── Perplexity/             # Perplexity AI search models
